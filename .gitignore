@@ -1,3 +1,4 @@
 */.ipynb_checkpoints
 /venv
-/dataset/00_Autoencoder-CreditCardAnomalyDetection.csv
+/datasets/CreditCard.csv
+/datasets/kddcup.data.corrected
